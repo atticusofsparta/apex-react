@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/apex-react/static/css/main.44d4e408.css",
-    "main.js": "/apex-react/static/js/main.b1993aa5.js",
-    "static/js/787.37739112.chunk.js": "/apex-react/static/js/787.37739112.chunk.js",
+    "main.css": "/apex-react/static/css/main.7d8efc7b.css",
+    "main.js": "/apex-react/static/js/main.8505a3f7.js",
+    "static/js/787.0993199e.chunk.js": "/apex-react/static/js/787.0993199e.chunk.js",
     "static/media/overlay-bg.png": "/apex-react/static/media/overlay-bg.0990f9fe9944420d6469.png",
     "static/media/media-library.jpg": "/apex-react/static/media/media-library.d2e84746ac4a860b8775.jpg",
     "static/media/arweave.svg": "/apex-react/static/media/arweave.5e9d962f63fe331b8acde395e3083e20.svg",
@@ -38,12 +38,12 @@
     "static/media/right-arrow.svg": "/apex-react/static/media/right-arrow.6ea36c1f68ad67beb3b807695dbf9283.svg",
     "static/media/down-arrow.svg": "/apex-react/static/media/down-arrow.bda336effa57b3555c1a32fd048e1033.svg",
     "static/media/Rectangle.svg": "/apex-react/static/media/Rectangle.2c768debe14a2c3a7277590da14c539f.svg",
-    "main.44d4e408.css.map": "/apex-react/static/css/main.44d4e408.css.map",
-    "main.b1993aa5.js.map": "/apex-react/static/js/main.b1993aa5.js.map",
-    "787.37739112.chunk.js.map": "/apex-react/static/js/787.37739112.chunk.js.map"
+    "main.7d8efc7b.css.map": "/apex-react/static/css/main.7d8efc7b.css.map",
+    "main.8505a3f7.js.map": "/apex-react/static/js/main.8505a3f7.js.map",
+    "787.0993199e.chunk.js.map": "/apex-react/static/js/787.0993199e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44d4e408.css",
-    "static/js/main.b1993aa5.js"
+    "static/css/main.7d8efc7b.css",
+    "static/js/main.8505a3f7.js"
   ]
 }
